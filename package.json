@@ -1,0 +1,20 @@
+{
+  "name": "RegisterBD",
+  "version": "1.0.0",
+  "description": "百度注册效果",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wangmeng456/RegisterBD.git"
+  },
+  "keywords": [],
+  "author": "wangmeng456",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wangmeng456/RegisterBD/issues"
+  },
+  "homepage": "https://github.com/wangmeng456/RegisterBD#readme"
+}
