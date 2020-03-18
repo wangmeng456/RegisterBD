@@ -6,15 +6,15 @@ module.exports = function(grunt){
         preserveLineBreaks: false
       },
       files: {
-        src:'./index.html',
-        dest:'dist/index.html'
+        src:'./source/index.html',
+        dest:'index.html'
       }
     },
     cssmin: {
-      'dist/register.css': 'register.css'
+      'register.css': './source/register.css'
     },
     uglify:{
-      'dist/register.js':'register.js'  
+      'register.js':'./source/register.js'  
     }
   });
 
